@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /traitement.php
+Disallow: /mentions-legales.html
+Sitemap: https://teddy-couvreur-77.fr/sitemap.xml
