@@ -1,5 +1,5 @@
 body{margin:0;padding:0;background-color:#fff;margin-top:5%;font-family:'Roboto',sans-serif}
-hr{width:20%;margin-left:auto;margin-right:auto;height:6px;background:#f09000;border-radius:15px}
+hr{width:20%;margin-left:auto;margin-right:auto;height:6px;background:#870000;border-radius:15px}
 h1,h2{color:#000;text-align:center}
 h1,h2,h3,h4{text-align:center}
 h1{font-weight:550;font-size:55px;margin-bottom:5%;margin-top:5%;line-height:1.3}
@@ -11,7 +11,7 @@ p{color:#000;font-size:20px;margin-left:5%;margin-right:5%;text-align:center;pad
 .form-container h2{font-size:22px;margin-top:3%;margin-bottom:3%}
 .strong-color{color:#ffbb55}
 a{text-decoration:none;color:#000;font-weight:600}
-.histoire{background-color:#000;padding:2% 0;width:80%;margin:10% auto;box-shadow:2px 3px 0 2px #f09000;border-radius:20px 20px 20px 0}
+.histoire{background-color:#000;padding:2% 0;width:80%;margin:10% auto;box-shadow:2px 3px 0 2px #870000;border-radius:20px 20px 20px 0}
 .histoire h4,.histoire p{color:#fff}
 #tarif{background-color:#000;padding:2%;width:100%;margin:10% auto}
 #tarif h2,#tarif h3,#tarif p{color:#fff}
@@ -19,7 +19,7 @@ a{text-decoration:none;color:#000;font-weight:600}
 #tarif a{color:#000}
 .valeur h3,.valeur h4{margin-bottom:0;color:#fff;text-align:left}
 .valeur h3,.valeur h4,.valeur p{text-align:left}
-.valeur{background-color:#000;width:75%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #f09000;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}
+.valeur{background-color:#000;width:75%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #870000;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}
 .valeur.slide-in-done{opacity:1;transform:translateX(0)}
 .valeur .confiance{display:flex;align-items:center;margin-top:5%;margin-left:2%;font-size:35px;text-align:left}
 .valeur h3{display:flex;align-items:center;font-size:30px}
@@ -61,15 +61,15 @@ a{text-decoration:none;color:#000;font-weight:600}
 .contenu3 img{display:flex;justify-content:center;width:30%;height:auto;margin:5% auto 3%}
 .contenu3 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
 #contact{margin-top:10%;padding:2%;background-color:#000}
-#contact h5{text-align:center;margin:5% 3% 3%;color:#f09000;font-weight:600;font-size:20px}
+#contact h5{text-align:center;margin:5% 3% 3%;color:#870000;font-weight:600;font-size:20px}
 #contact p{color:#fff}
 .liens a{margin:0;color:#fff;font-size:16px}
 .liens-wp a,.liens-wp p{color:#fff;font-size:12px}
 .bouton-devis1{background-color:#000;color:#fff;padding:1% 5%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%;z-index:1}
-.bouton-devis2{display:flex;justify-content:center;background-color:#f09000;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
+.bouton-devis2{display:flex;justify-content:center;background-color:#870000;font-size:22px;padding:1%;border-radius:25px;text-decoration:none;margin:2% 35%}
 .bouton-devis3{opacity:0;transform:translateY(50px);transition:opacity 0.5s,transform .5s;display:flex;justify-content:center;background-color:#000;color:#fff;font-size:20px;padding:1%;text-decoration:none;border-radius:25px;margin:2% 35%}
 .bouton-devis3:hover{background-color:#01002c}
-.bouton-devis3:hover, .bouton-devis1:hover,.form-container button:hover{background-color:#f09000}
+.bouton-devis3:hover, .bouton-devis1:hover,.form-container button:hover{background-color:#870000}
 .form-container{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:50%;background-color:#ffbb55;padding:20px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);color:#fff;border-radius:20px}
 .image-container{display:flex;justify-content:center;align-items:center;background-color:#fff;padding:1%;margin-left:37%;margin-right:37%;margin-bottom:20px;border-radius:20px}
 .image-container img{width:100%;height:auto;border-radius:20px}
@@ -112,7 +112,7 @@ body{margin-top:18%}
 #tarif{width:95%;margin-top:15%;margin-bottom:15%}
 #nos-valeurs{margin-bottom:13%}
 .valeur .confiance,.valeur h3{display:flex;text-align:left;margin-top:5%}
-.valeur{width:95%;padding-left:3%;padding-right:3%;margin-bottom:10%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #f09000;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}
+.valeur{width:95%;padding-left:3%;padding-right:3%;margin-bottom:10%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #870000;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}
 .valeur .confiance{align-items:center;margin-left:5%;color:#000;font-size:40px}
 .valeur h3{align-items:center;color:#fff;font-size:20px;margin-bottom:2%;margin-left:1%}
 .valeur h4,.valeur p{color:#fff;text-align:left;margin-top:3%}
