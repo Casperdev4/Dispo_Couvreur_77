@@ -78,7 +78,7 @@ try {
 
     $mail->send();
 
-    header('Location: https://teddy-couvreur-77.fr');
+    header('Location: https://td-couvreur-77.fr');
     exit();
 } catch (Exception $e) {
     echo "Message non envoyé. Erreur Mailer: {$mail->ErrorInfo}";
