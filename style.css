@@ -54,10 +54,10 @@ a{text-decoration:none;color:#222;font-weight:600}
 .seo-one2 img{display:flex;justify-content:center;width:20%;height:auto;margin:7% auto 5%}
 .seo-one2 p,.seo-one3 p{margin-left:3%;margin-right:3%;text-align:left}
 .seo-one2 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
-.seo-one3 img{display:flex;justify-content:center;width:30%;height:auto;margin:5% auto 3%}
+.seo-one3 img{display:flex;justify-content:center;width:20%;height:auto;margin:5% auto 3%}
 .seo-one3 h3{font-size:20px;text-align:left;font-weight:600;margin:10% 5% 3% 6%}
 #contact{margin-top:10%;padding:2%;background-color:#222}
-#contact h5{text-align:center;margin:5% 3% 3%;color:#872220;font-weight:600;font-size:20px}
+#contact h5{text-align:center;margin:5% 3% 3%;color:#fff;font-weight:600;font-size:20px}
 #contact p{color:#fff}
 .liens a{margin:0;color:#fff;font-size:16px}
 .liens-wp a,.liens-wp p{color:#fff;font-size:12px}
