@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ren:*)",
+      "WebFetch(domain:teddy-couverture-avon.fr)",
+      "Bash(for f in couvreur-25-doubs.html devis-pour-toiture-25-doubs.html etancheite-toiture-25-doubs.html fuite-toiture-25-doubs.html gouttiere-zinc-gouttiere-pvc-25-doubs.html isolation-toiture-25-doubs.html nettoyage-toiture-25-doubs.html peinture-toiture-25-doubs.html pose-velux-25-doubs.html ravalement-de-facade-25-doubs.html reparation-toiture-25-doubs.html)",
+      "Bash(do sed -i 's/alt=\"\"wnicolas couverture\"\"/alt=\"\"Couvreur 25 Doubs\"\"/g' \"$f\")",
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(for f in couvreur-25-doubs.html devis-pour-toiture-25-doubs.html etancheite-toiture-25-doubs.html fuite-toiture-25-doubs.html gouttiere-zinc-gouttiere-pvc-25-doubs.html isolation-toiture-25-doubs.html nettoyage-toiture-25-doubs.html peinture-toiture-25-doubs.html pose-velux-25-doubs.html reparation-toiture-25-doubs.html)",
+      "Bash(do perl -i -0pe 's|<label for=\"\"btn\"\" class=\"\"icon\"\">\\\\s*<svg viewBox=\"\"0 0 100 80\"\" width=\"\"40\"\" height=\"\"40\"\">\\\\s*<rect width=\"\"80\"\" height=\"\"11\"\"></rect>\\\\s*<rect y=\"\"26\"\" width=\"\"60\"\" height=\"\"11\"\"></rect>\\\\s*<rect y=\"\"52\"\" width=\"\"70\"\" height=\"\"11\"\"></rect>\\\\s*</svg>\\\\s*</label>\\\\s*<input type=\"\"checkbox\"\" id=\"\"btn\"\">|<input type=\"\"checkbox\"\" id=\"\"btn\"\">\\\\n            <label for=\"\"btn\"\" class=\"\"icon\"\">\\\\n                <span class=\"\"burger-line\"\"></span>\\\\n                <span class=\"\"burger-line\"\"></span>\\\\n                <span class=\"\"burger-line\"\"></span>\\\\n            </label>|gs' \"$f\")",
+      "Bash(grep:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
